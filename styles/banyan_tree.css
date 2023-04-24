@@ -1,0 +1,25 @@
+header {display: flex;justify-content: space-between; justify-content: space-between;position: fixed;width: 100%; z-index: 999;}
+header h1 {}
+header h1 a {}
+header h1 a img {}
+header nav {padding: 30px;}
+header nav a {color:#fff;}
+main {}
+main .wrap {width: 100%; height: 100vh;}
+main .wrap1 {}
+main .wrap2 {}
+main .wrap3 {}
+main .wrap4 {}
+main .wrap .bg {background-repeat: no-repeat;height: 100%;background: cover; background-position: center;} 
+main .wrap .bg1 {background-image:url(../images/main_bg_new2.jpg);} 
+main .wrap .bg2 {background-image: url(../images/main_con2_bg.jpg);} 
+main .wrap .bg3 {background-image: url(../images/main_con3_bg.jpg);} 
+main .wrap .bg4 {background-image: url(../images/main_con5_bg-.jpg);} 
+main .wrap .bg1 h2 {font-size: 3rem; color:#fff; line-height: 100vh; text-align: center; opacity: 0;}
+main .wrap .bg h2 {font-size: 3rem; color:#fff; padding:50px 0 40px 40px;}
+main .wrap .bg p {color:#fff; padding-left:40px; line-height: 1.5rem;}
+main .btn_right {position:fixed; right:20px; bottom:20px; border:2px solid #fff; padding:10px 20px; border-radius:10px;}
+main .btn_right a {color:#fff;}
+footer {background: #000; display: flex; justify-content: space-around; align-items: center; width:100%; height: 150px;}
+footer p {color:#fff;}
+footer p img {}
